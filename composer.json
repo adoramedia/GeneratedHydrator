@@ -1,5 +1,5 @@
 {
-    "name":              "ocramius/generated-hydrator",
+    "name":              "adora/generated-hydrator",
     "description":       "An Object Hydrator that allows very fast array to object to array conversion",
     "type":              "library",
     "license":           "MIT",
